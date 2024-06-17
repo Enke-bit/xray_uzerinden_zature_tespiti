@@ -22,9 +22,9 @@ chest_xray
 
 └── train
 
-├── Normal
+  ├── Normal
 
-└── PNEUMONIA
+  └── PNEUMONIA
 
 
 `train` klasörü, modelin eğitiminde kullanılacak verileri içerirken, `test` klasörü modelin performansını değerlendirmek için kullanılacak verileri içermektedir.
