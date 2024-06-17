@@ -16,12 +16,14 @@ chest_xray
 ├── test
 
 │ ├── Normal
+
 │ └── PNEUMONIA
 │
 
 └── train
 
 ├── Normal
+
 └── PNEUMONIA
 
 
