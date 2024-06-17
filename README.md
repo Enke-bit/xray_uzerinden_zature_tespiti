@@ -12,11 +12,15 @@ Veri seti, `chest_xray` klasörü altında aşağıdaki yapıda olmalıdır:
 
 chest_xray
 │
+
 ├── test
+
 │ ├── Normal
 │ └── PNEUMONIA
 │
+
 └── train
+
 ├── Normal
 └── PNEUMONIA
 
