@@ -38,6 +38,10 @@ chest_xray
    - seaborn
    - sklearn
 
+## Veri seti
+
+https://www.kaggle.com/datasets/alifrahman/chestxraydataset
+
 Sonuçlar
 Eğitim ve değerlendirme sonuçları aşağıdaki adımlarla elde edilmiştir:
 
